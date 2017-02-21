@@ -1,0 +1,14 @@
+==== Mon Jul  4 01:15:12 CEST 2016 ... Job 5911.cgcw starting on cg07 ====
+==== Working directory /scratch/stud6.5911.cgcw created ====
+-------------------------------------------
+This Job is allocated on  cpu(s)
+Job is running on nodes(s): 
+-------------------------------------------
+cg07
+cg07
+/scratch/stud6.5911.cgcw
+Matrix:
+  +5.000000e+00  -2.000000e+00
+  -2.000000e+00  +2.000000e+00
+
+==== Mon Jul  4 01:15:16 CEST 2016 ... Job 5911.cgcw ended on cg07 ====

@@ -1,0 +1,4 @@
+[cg07:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[cg07:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[cg07:mpispawn_0][child_handler] MPI process (rank: 0, pid: 25157) terminated with signal 11 -> abort job
+[cg07:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node cg07 aborted: Error while reading a PMI socket (4)
